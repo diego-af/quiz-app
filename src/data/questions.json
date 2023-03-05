@@ -1,0 +1,282 @@
+
+
+
+[
+{
+"titulo":"Qual destes não é filho de Adão e Eva?",
+"options":[
+  "Caim",
+"Abel",
+"Javé",
+"Sete"
+],
+"resposta":"Javé",
+"ref":"",
+"id":1,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Como é o nome do gigante derrotado por Davi?",
+"options":["Sansão",
+"Golias",
+"Zaqueu",
+"Salomão"],
+"resposta":"Golias",
+"ref":"",
+"id":2,
+"nivel":2,
+"respondida":false
+},
+{
+"titulo":"Qual o nome do filho de Abraão e Sarah?",
+"options":["Esmael",
+"Israel",
+"Isaque",
+"Jacó"],
+"resposta":"Isaque",
+"ref":"",
+"id":4,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Quantos anos o povo de Moisés andou pelo deserto?",
+"options":["7 Anos",
+"40 Anos",
+"27 Anos",
+"30 Anos"],
+"resposta":"40 Anos",
+"ref":"",
+"id":5,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Jonas foi enviado para qual cidade?",
+"options":["Ninive",
+"Nindávua",
+"Névua",
+"Nivem"],
+"resposta":"Ninive",
+"ref":"",
+"id":6,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Quem matou o gigante Golias?",
+"options":["Daniel",
+"Josué",
+"Saul",
+"Davi"],
+"resposta":"Davi",
+"ref":"",
+"id":7,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Qual o nome do discípulo que traiu Jesus?",
+"options":["Pedro",
+"João",
+"Tiago",
+"Judas"],
+"resposta":"Judas",
+"ref":"",
+"id":8,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Sansão era inimigo de qual povo?",
+"options":["Filisteus",
+"Galileus",
+"Saduseus",
+"Gabuzeus"],
+"resposta":"Filisteus",
+"ref":"",
+"id":9,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Que discipulo negou a Jesus, por 3 vezes?",
+"options":["Judas",
+"Pedro",
+"Tiago",
+"João"],
+"resposta":"Pedro",
+"ref":"",
+"id":10,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Qual profeta foi preso na ilha de Patmus?",
+"options":["Gedeon",
+"Paulo",
+"João",
+"Silas"],
+"resposta":"João",
+"ref":"",
+"id":11,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Quem batizou Jesus?",
+"options":["Batista",
+"João Batista",
+"Espírito Santo",
+"Deus"],
+"resposta":"João Batista",
+"ref":"",
+"id":12,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Quem foi escravo e se tornou governador do Egito?",
+"options":["João",
+"Josué",
+"José",
+"Kaleb"],
+"resposta":"José",
+"ref":"",
+"id":13,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Que animal anunciou o fim do dilúvio?",
+"options":["Corvo",
+"Coruja",
+"Urubu",
+"Pomba"],
+"resposta":"Pomba",
+"ref":"",
+"id":14,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Quem mergulhou sete vezes no rio jordão para ser curado de lepra?",
+"options":["Noé",
+"Namã",
+"Nemias",
+"Nicodemos"],
+"resposta":"Namã",
+"ref":"",
+"id":15,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Qual destas não foi mulher de Abraão?",
+"options":["Sarah",
+"Quetura",
+"Agar",
+"Zinrã"],
+"resposta":"Zinrã",
+"ref":"",
+"id":16,
+"nivel":4,
+"respondida":false
+},
+
+{
+"titulo":"Quantas pragas atormentaram o Egito?",
+"options":["7",
+"5",
+"10",
+"3"],
+"resposta":"10",
+"ref":"",
+"id":17,
+"nivel":3,
+"respondida":false
+},
+
+{
+"titulo":"Qual era a profissão de Jesus?",
+"options":["Pastor",
+"Cobrador de Impostos",
+"Pescador",
+"Carpinteiro"],
+"resposta":"Carpinteiro",
+"ref":"",
+"id":18,
+"nivel":2,
+"respondida":false
+},
+
+
+{
+"titulo":"Qual o nome do rei que criou a fornalha?",
+"options":["Herodes",
+"Nabucodonossor",
+"Salomão",
+"Sodoma e Gomorra"],
+"resposta":"B",
+"ref":"",
+"id":20,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Que objeto o povo criou para adorar, quando Moisés subiu o monte sinai?",
+"options":["Vaca de Ouro",
+"Touro de Ouro",
+"Cabra de Ouro",
+"Bezerro de Ouro"],
+"resposta":"Bezerro de Ouro",
+"ref":"",
+"id":21,
+"nivel":2,
+"respondida":false
+},
+
+{
+"titulo":"Onde Paulo pregou seu primeiro sermão?",
+"options":["Beréia",
+"Antioquia",
+"Damasco",
+"Éfeso"],
+"resposta":"Damasco",
+"ref":"Atos",
+"id":22,
+"nivel":4,
+"respondida":false
+},
+{
+"titulo":"Qual o capítulo da Bíblia que fala sobre o dilúvio?",
+"options":["Gênesis 9",
+"Êxodo 3",
+"Gênesis 7",
+"Mateus 5"],
+"resposta":"Gênesis 7",
+"ref":"Gênesis 7",
+"id":26,
+"nivel":3,
+"respondida":false
+}
+
+
+
+
+]
